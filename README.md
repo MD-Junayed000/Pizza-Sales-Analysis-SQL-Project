@@ -66,7 +66,7 @@ How to Use
 
 1.  **Clone the Repository:**
     
-    `git clone https://github.com/yourusername/Pizza-Sales-Analysis-SQL.git` 
+    `git clone https://github.com/MD-Junayed000/Pizza-Sales-Analysis-SQL-Project.git ` 
     
 2.  **Set Up the Database:**
     
@@ -89,10 +89,6 @@ Requirements
 *   Basic knowledge of SQL and database management
     
 
-License
--------
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Credits
 -------
